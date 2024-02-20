@@ -1,47 +1,47 @@
-const logotext = "JOHN";
+const logotext = "Tonny Nyakana";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Tonny Nyakana",
+    description: "I’m Tonny Nyakana MERN  Full  stack devloper,currently working in UAE",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Tonny Nyakana",
     animated: {
         first: "I love coding",
         second: "I code cool websites",
         third: "I develop mobile apps",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    description: "I primarily in charge of developing and designing front end web architecture and building interactive consumer data from multiple systems. They define code architecture decisions to support high-performance products and  responsible for translating wireframes and PSD Designs into functional web applications",
+    your_img_url: "https://images.pexels.com/photos/633409/pexels-photo-633409.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
 };
 
 const dataabout = {
     title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    aboutme: "I'm a front end developer with five years of experience in web development. I've worked on a variety of projects for clients in the retail, travel, and healthcare industries. I'm passionate about creating great user experiences and have a strong understanding of usability and accessibility standards.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
+        jobtitle: "WEB DEVELOPER",
+        where: "BLUESKY DUBAI",
+        date: "2023",
+    },
+    {
+        jobtitle: "WEB DEVELOPER",
+        where: " DIGITAL XCELLENCE Abudhabi",
         date: "2020",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+        jobtitle: "WEB DESIGNER",
+        where: "LINE DEVS UGANDA",
+        date: "2018",
     },
 ];
 
 const skills = [{
-        name: "Python",
+        name: "HTML",
         value: 90,
     },
     {
-        name: "Djano",
+        name: "CSS",
         value: 85,
     },
     {
@@ -56,89 +56,75 @@ const skills = [{
         name: "Jquery",
         value: 85,
     },
+    {
+        name: "Firebase",
+        value: 75,
+    },
+    {
+        name: "MongoDB",
+        value: 65,
+    },
 ];
 
 const services = [{
         title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "you can use visual design knowledge to create visually appealing products that are easy and enjoyable to use, reduce cognitive load, and establish consistency within the visual elements of the product using Figma.",
     },
     {
         title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "React Native is an open-source mobile application framework i use to develop apps for Android, Apple, and Windows platforms; and for the web. Develop native apps for Android and iOS using React and JavaScript to create a single codebase that can be shared across platforms.",
     },
     {
         title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "WordPress is one of the most popular website hosting providers due to its versatility and customization options .",
     },
 ];
 
 const dataportfolio = [{
         img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        description: "",
+        link: "https://proto-travel.onrender.com/",
+    },
+    {
+        img: "https://picsum.photos/400/300/?grayscale",
+        description: "",
+        link: "https://homeresto.onrender.com/",
     },
     {
         img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        description: "",
+        link: "https://derg.onrender.com/",
     },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
+   
     {
         img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        description: "",
+        link: "https://highqtrainingcenter.com",
     },
     {
         img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        description: "",
+        link: "https://djfab1739.com/",
     },
     {
         img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        description: "",
+        link: "https://cashtrack.onrender.com/",
     },
 
     {
         img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        description: "",
+        link: "https://e-com-wspp.onrender.com/",
     },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
+   
+   
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "twest7783@gmail.com",
+    YOUR_FONE: "+971554529394",
+    description: " ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
@@ -147,10 +133,10 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/Tony1-arch/",
+    facebook: "https://www.facebook.com/profile.php?id=100074239180205&mibextid=LQQJ4d",
+    linkedin: "https://ae.linkedin.com/in/tony-nyakana-194772235",
+    Instagram: "https://www.instagram.com/designplus_01?igsh=YmU0b24yOXJtNDhq&utm_source=qr",
 };
 export {
     meta,
